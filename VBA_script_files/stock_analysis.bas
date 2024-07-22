@@ -1,4 +1,3 @@
-Attribute VB_Name = "Stock_Analysis"
 Sub StockAnalysis()
  
     Dim CurrentWs As Worksheet
