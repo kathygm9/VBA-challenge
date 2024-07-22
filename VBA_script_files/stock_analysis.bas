@@ -1,6 +1,6 @@
 Attribute VB_Name = "Stock_Analysis"
 Sub StockAnalysis()
-
+ 
     Dim CurrentWs As Worksheet
     Dim LastRow As Long
     Dim i As Long
